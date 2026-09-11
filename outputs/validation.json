@@ -1,0 +1,19 @@
+{
+  "asset_hashes_checked": 282,
+  "instances_checked": 57,
+  "saved_feasible_plans": 210,
+  "max_saved_exact_objective_error": 1.4921397450962104e-12,
+  "max_saved_surrogate_prediction_error": 1.765254609153999e-13,
+  "stability_max_prediction_error": 5.551115123125783e-17,
+  "python": "3.13.5",
+  "versions": {
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "pandas": "3.0.5",
+    "networkx": "3.6.1",
+    "torch": "2.14.0",
+    "torch-geometric": "2.5.3",
+    "gurobipy": "13.0.3",
+    "openpyxl": "3.1.5"
+  }
+}

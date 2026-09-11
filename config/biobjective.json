@@ -1,0 +1,461 @@
+[
+  {
+    "instance": 94,
+    "paper_id": 1,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Visual_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 2
+  },
+  {
+    "instance": 95,
+    "paper_id": 2,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Visual_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 3
+  },
+  {
+    "instance": 95,
+    "paper_id": 2,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Multiple_Demand_Extended_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 4
+  },
+  {
+    "instance": 96,
+    "paper_id": 3,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Visual_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 5
+  },
+  {
+    "instance": 98,
+    "paper_id": 4,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Visual_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 6
+  },
+  {
+    "instance": 99,
+    "paper_id": 5,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Visual_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 7
+  },
+  {
+    "instance": 99,
+    "paper_id": 5,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Multiple_Demand_Extended_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 8
+  },
+  {
+    "instance": 100,
+    "paper_id": 6,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Visual_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 9
+  },
+  {
+    "instance": 102,
+    "paper_id": 7,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Visual_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 10
+  },
+  {
+    "instance": 102,
+    "paper_id": 7,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Multiple_Demand_Extended_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 11
+  },
+  {
+    "instance": 103,
+    "paper_id": 8,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Multiple_Demand_Extended_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 12
+  },
+  {
+    "instance": 104,
+    "paper_id": 9,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Visual_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 13
+  },
+  {
+    "instance": 107,
+    "paper_id": 10,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Visual_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 14
+  },
+  {
+    "instance": 108,
+    "paper_id": 11,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Visual_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 15
+  },
+  {
+    "instance": 108,
+    "paper_id": 11,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Multiple_Demand_Extended_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 16
+  },
+  {
+    "instance": 110,
+    "paper_id": 12,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Visual_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 17
+  },
+  {
+    "instance": 110,
+    "paper_id": 12,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Multiple_Demand_Extended_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 18
+  },
+  {
+    "instance": 111,
+    "paper_id": 13,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Multiple_Demand_Extended_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 19
+  },
+  {
+    "instance": 112,
+    "paper_id": 14,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Visual_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 20
+  },
+  {
+    "instance": 113,
+    "paper_id": 15,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Visual_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 21
+  },
+  {
+    "instance": 113,
+    "paper_id": 15,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Multiple_Demand_Extended_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 22
+  },
+  {
+    "instance": 114,
+    "paper_id": 16,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Multiple_Demand_Extended_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 23
+  },
+  {
+    "instance": 115,
+    "paper_id": 17,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Visual_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 24
+  },
+  {
+    "instance": 116,
+    "paper_id": 18,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Visual_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 25
+  },
+  {
+    "instance": 116,
+    "paper_id": 18,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Multiple_Demand_Extended_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 26
+  },
+  {
+    "instance": 117,
+    "paper_id": 19,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Multiple_Demand_Extended_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 27
+  },
+  {
+    "instance": 118,
+    "paper_id": 20,
+    "objectives": [
+      [
+        "ge",
+        "overall"
+      ],
+      [
+        "ge",
+        "Visual_Network"
+      ]
+    ],
+    "resect_pct": 80.0,
+    "epsilon_digits": 4,
+    "reference_row": 28
+  }
+]

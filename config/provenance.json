@@ -1,0 +1,1277 @@
+[
+  {
+    "source": "mipInstances/mip_instance_94.pkl",
+    "path": "instances/mip_instance_94.pkl",
+    "sha256": "2dbefc1c60925b00b1d97488253fd849a3a58dd5f5da86cca714dd82ae572705"
+  },
+  {
+    "source": "mipInstances/mip_instance_95.pkl",
+    "path": "instances/mip_instance_95.pkl",
+    "sha256": "8eb073d91dcefcd3224e44c6ea6a6d39d93eed5b44c6834c3d585d87dbc0a239"
+  },
+  {
+    "source": "mipInstances/mip_instance_96.pkl",
+    "path": "instances/mip_instance_96.pkl",
+    "sha256": "0c5de6fe1584658a840743373b1e64bc7d40907b654adedb42023765a8c7a42c"
+  },
+  {
+    "source": "mipInstances/mip_instance_98.pkl",
+    "path": "instances/mip_instance_98.pkl",
+    "sha256": "d9a2fe77432cb707ce8553b6720dc2e9397d9174a8f10753e19c027e5091706b"
+  },
+  {
+    "source": "mipInstances/mip_instance_99.pkl",
+    "path": "instances/mip_instance_99.pkl",
+    "sha256": "995db0ce478d4d1981ce116a608a14a6a7b52b34ff10406c2d46a76e523d9948"
+  },
+  {
+    "source": "mipInstances/mip_instance_100.pkl",
+    "path": "instances/mip_instance_100.pkl",
+    "sha256": "1cde7ae1be0a8e8b4427bbfeaf88511ec8e8c0bcb9864c97cff7ecf79bbde1aa"
+  },
+  {
+    "source": "mipInstances/mip_instance_102.pkl",
+    "path": "instances/mip_instance_102.pkl",
+    "sha256": "dc19db015c68ee1b2edfbcefcd9199d696f16e23f84627abcc363590812c9fe0"
+  },
+  {
+    "source": "mipInstances/mip_instance_103.pkl",
+    "path": "instances/mip_instance_103.pkl",
+    "sha256": "e59252b2b0f7de2b7bf7ca5cf5dfc26c23a896879225a714918ea5a97bf18517"
+  },
+  {
+    "source": "mipInstances/mip_instance_104.pkl",
+    "path": "instances/mip_instance_104.pkl",
+    "sha256": "9c308c9341cc7898ea1040f2681e2af4842033013c4dbce464ad72d546f94b12"
+  },
+  {
+    "source": "mipInstances/mip_instance_107.pkl",
+    "path": "instances/mip_instance_107.pkl",
+    "sha256": "e26d0e8281c4731267ea23dbb14931b39ef3240f0d5ff9b36114732c1eeaa55e"
+  },
+  {
+    "source": "mipInstances/mip_instance_108.pkl",
+    "path": "instances/mip_instance_108.pkl",
+    "sha256": "19bd0f7405a9bff2a7f72f22f84d47fa92fa3f9aaded1cb3dbbfd5614c053071"
+  },
+  {
+    "source": "mipInstances/mip_instance_110.pkl",
+    "path": "instances/mip_instance_110.pkl",
+    "sha256": "601b28c5e12b15d1d7107912e9c5f7be4d7cf6686150cf14d34f28ed5f50d2db"
+  },
+  {
+    "source": "mipInstances/mip_instance_111.pkl",
+    "path": "instances/mip_instance_111.pkl",
+    "sha256": "7773fff630e803f2355ba0fa456a25b0ee8988cf43325b7031848f75f2dc3382"
+  },
+  {
+    "source": "mipInstances/mip_instance_112.pkl",
+    "path": "instances/mip_instance_112.pkl",
+    "sha256": "328f120767d63120039f1077ebedc5c79b25a8387277feac9b005139cc69d540"
+  },
+  {
+    "source": "mipInstances/mip_instance_113.pkl",
+    "path": "instances/mip_instance_113.pkl",
+    "sha256": "30aadce7553be415a96039fcbe284fdba3b8eb57f675b661ab8c76c09ea63be5"
+  },
+  {
+    "source": "mipInstances/mip_instance_114.pkl",
+    "path": "instances/mip_instance_114.pkl",
+    "sha256": "1bdf4949d82aa2bbe0a7e3ed0e071afa3f01f2552956f16c527b9c989283c713"
+  },
+  {
+    "source": "mipInstances/mip_instance_115.pkl",
+    "path": "instances/mip_instance_115.pkl",
+    "sha256": "fc764d767e7381219f201b7ca20472cc70caed363e24a7070a4b7ffa41e137b1"
+  },
+  {
+    "source": "mipInstances/mip_instance_116.pkl",
+    "path": "instances/mip_instance_116.pkl",
+    "sha256": "0c8b9abaea5aeb2c3ae2467c4868d637aa2febb0e715ef014d2daec09cb3ff21"
+  },
+  {
+    "source": "mipInstances/mip_instance_117.pkl",
+    "path": "instances/mip_instance_117.pkl",
+    "sha256": "9fe6be69a44ce093dcbbca7537f014f3ee4c52c0d44c281b9e499f67223c103c"
+  },
+  {
+    "source": "mipInstances/mip_instance_118.pkl",
+    "path": "instances/mip_instance_118.pkl",
+    "sha256": "626c7ac88b69897a81020e8ef0547e65d603592a7bdbe37a82c7eec613c61171"
+  },
+  {
+    "source": "mipInstances/mip_instance_168.pkl",
+    "path": "instances/mip_instance_168.pkl",
+    "sha256": "84bd39ee34025d6d35a92c1278c48f8d8e88320fc88d6f957bb3cb42f10fe098"
+  },
+  {
+    "source": "mipInstances/mip_instance_170.pkl",
+    "path": "instances/mip_instance_170.pkl",
+    "sha256": "fb28d0627c063fb656ea065138c8e38a7a96c7864157bb5bb3a14a146d5946cb"
+  },
+  {
+    "source": "mipInstances/mip_instance_174.pkl",
+    "path": "instances/mip_instance_174.pkl",
+    "sha256": "a39d8dd415882ec43b6b5e579010e2dc7ef255d43ab365ca64c06c0a2dcc33f4"
+  },
+  {
+    "source": "mipInstances/mip_instance_175.pkl",
+    "path": "instances/mip_instance_175.pkl",
+    "sha256": "dd76580cd42cad46fbb283b92180d1fbcd125d673afad4896913d277cf19ec09"
+  },
+  {
+    "source": "mipInstances/mip_instance_176.pkl",
+    "path": "instances/mip_instance_176.pkl",
+    "sha256": "7f8c5d10c3c250d625c1cdaa8edf383135031def07cc4f53aeec5f373ff08f58"
+  },
+  {
+    "source": "mipInstances/mip_instance_177.pkl",
+    "path": "instances/mip_instance_177.pkl",
+    "sha256": "c11985bc24af26c56466950031f30b8b3cb062e67bf7eded6e4b2f6e54d44fcb"
+  },
+  {
+    "source": "mipInstances/mip_instance_178.pkl",
+    "path": "instances/mip_instance_178.pkl",
+    "sha256": "3b6b7e301e80daafe59b472c71b1ab39ef26b0713a169349af9b01449aedbbbe"
+  },
+  {
+    "source": "mipInstances/mip_instance_179.pkl",
+    "path": "instances/mip_instance_179.pkl",
+    "sha256": "af0f918582beb727f08fb6750a40d61637ab8cb7ca957ec0be7726302f34226b"
+  },
+  {
+    "source": "mipInstances/mip_instance_180.pkl",
+    "path": "instances/mip_instance_180.pkl",
+    "sha256": "28ed26bf95af14b8e5a11bc2775ef1c77ab828e859b05a8e457a866e5f912bf3"
+  },
+  {
+    "source": "mipInstances/mip_instance_181.pkl",
+    "path": "instances/mip_instance_181.pkl",
+    "sha256": "83d8246eb4b12e3c709ae4629073c4ec581ec1084a6a2944ed04cebbab8e9595"
+  },
+  {
+    "source": "mipInstances/mip_instance_182.pkl",
+    "path": "instances/mip_instance_182.pkl",
+    "sha256": "3ca12d04167919781e82663d1a070200ed6fa47733bdd538411e5fd34b1fee00"
+  },
+  {
+    "source": "mipInstances/mip_instance_183.pkl",
+    "path": "instances/mip_instance_183.pkl",
+    "sha256": "ec39a0401753d0f1f43cbf074e72bf79849d1a04d04bc92446bdaf4f39a47878"
+  },
+  {
+    "source": "mipInstances/mip_instance_184.pkl",
+    "path": "instances/mip_instance_184.pkl",
+    "sha256": "b9bd23a477faa84d9bf1343a7bcb8e2db06d622b59a7022255b3fd3490ab31f3"
+  },
+  {
+    "source": "mipInstances/mip_instance_185.pkl",
+    "path": "instances/mip_instance_185.pkl",
+    "sha256": "e334c27ec5b8dede750fcd1b7ec24f2f7396287902c407997d6b01193471a789"
+  },
+  {
+    "source": "mipInstances/mip_instance_186.pkl",
+    "path": "instances/mip_instance_186.pkl",
+    "sha256": "bd6b121152f92ab84389ca6ea3dd366a746a5acf131919d93708c150ac58d11c"
+  },
+  {
+    "source": "mipInstances/mip_instance_187.pkl",
+    "path": "instances/mip_instance_187.pkl",
+    "sha256": "7f4c1b575d0c822bffd2bd8f4c1689e35770b75f3b9f75f08c99d9ff95db718d"
+  },
+  {
+    "source": "mipInstances/mip_instance_188.pkl",
+    "path": "instances/mip_instance_188.pkl",
+    "sha256": "c13fd196f135fece03748b2c0f15ef2ef51fd5a3b21d307d095a881a04c63571"
+  },
+  {
+    "source": "mipInstances/mip_instance_189.pkl",
+    "path": "instances/mip_instance_189.pkl",
+    "sha256": "4d30677d16d3a209f7ae8932b5fdede652b009ad1dd1551db93bbed441856a21"
+  },
+  {
+    "source": "mipInstances/mip_instance_190.pkl",
+    "path": "instances/mip_instance_190.pkl",
+    "sha256": "0466e92bdb8d4e79d3235c9fa03c75b764c436ae9ab1fb8f6cf2db5406724d98"
+  },
+  {
+    "source": "mipInstances/mip_instance_191.pkl",
+    "path": "instances/mip_instance_191.pkl",
+    "sha256": "c0d1a51001a319c38103900eca9f47cd57fa5a799bc895e58398447d0a8c40c2"
+  },
+  {
+    "source": "mipInstances/mip_instance_192.pkl",
+    "path": "instances/mip_instance_192.pkl",
+    "sha256": "919ad9a966a84d8d05afea9f8b47321fcb8bb996fb759ddf3218c74d403afcdc"
+  },
+  {
+    "source": "mipInstances/mip_instance_193.pkl",
+    "path": "instances/mip_instance_193.pkl",
+    "sha256": "5671092d34af9386d8c0d398a82e77534bb48fd823581a597f1471d349093cf8"
+  },
+  {
+    "source": "mipInstances/mip_instance_194.pkl",
+    "path": "instances/mip_instance_194.pkl",
+    "sha256": "927b356aeb266c82b15be17386cee2897ccdc162b84badde6d6be8028afbda9c"
+  },
+  {
+    "source": "mipInstances/mip_instance_195.pkl",
+    "path": "instances/mip_instance_195.pkl",
+    "sha256": "11bc9e8461b7f8545b45a53004c7e3475893656cc8d13b9cc5976a10650f7660"
+  },
+  {
+    "source": "mipInstances/mip_instance_196.pkl",
+    "path": "instances/mip_instance_196.pkl",
+    "sha256": "0491443595fa69cb7e44cc6d16e0da4db750591ce6fb4a46ee947fbf00591bc4"
+  },
+  {
+    "source": "mipInstances/mip_instance_197.pkl",
+    "path": "instances/mip_instance_197.pkl",
+    "sha256": "757e043dd43841db306d796321659d25f57ee8d6c62d7c8b2721ef1e02bef6cd"
+  },
+  {
+    "source": "mipInstances/mip_instance_198.pkl",
+    "path": "instances/mip_instance_198.pkl",
+    "sha256": "b6afd935fa741ef2c6bd1d4e082c3219f1747b7c06ee3aba71fcc75e78779348"
+  },
+  {
+    "source": "mipInstances/mip_instance_199.pkl",
+    "path": "instances/mip_instance_199.pkl",
+    "sha256": "519748489d81b32eeabd021d10c8196b357f61bb31b995791cc54bad4d2b022d"
+  },
+  {
+    "source": "mipInstances/mip_instance_200.pkl",
+    "path": "instances/mip_instance_200.pkl",
+    "sha256": "8da22d25d136710ed9f1596b9af226aed1c9818a778c43c510239339a6872723"
+  },
+  {
+    "source": "mipInstances/mip_instance_201.pkl",
+    "path": "instances/mip_instance_201.pkl",
+    "sha256": "0e87d538e8778cb3291ee594b172f8c3f8ff211d7b8c3f098c120ce515a3ecf1"
+  },
+  {
+    "source": "mipInstances/mip_instance_202.pkl",
+    "path": "instances/mip_instance_202.pkl",
+    "sha256": "b9bdf18bccd929c295e854f16eee0a67831d5507d097ddb1b8ff527b298c8524"
+  },
+  {
+    "source": "mipInstances/mip_instance_203.pkl",
+    "path": "instances/mip_instance_203.pkl",
+    "sha256": "e61d9b2c1e30f3d69deb521c74a6d76af17540ea942b62809308f6592772c546"
+  },
+  {
+    "source": "mipInstances/mip_instance_204.pkl",
+    "path": "instances/mip_instance_204.pkl",
+    "sha256": "68d3066c82f59f06da2d4f500f1418adb9e08db326e0372d87617eb1d375b82d"
+  },
+  {
+    "source": "mipInstances/mip_instance_205.pkl",
+    "path": "instances/mip_instance_205.pkl",
+    "sha256": "e5829838a1d81667f8548bb0588c2d15d176fdab8c96e823a935f1d4ffab81e4"
+  },
+  {
+    "source": "mipInstances/mip_instance_206.pkl",
+    "path": "instances/mip_instance_206.pkl",
+    "sha256": "72acf8f68da04494d4a5abf7d4f6ec20e926dec739386845c56ae20bab666dd9"
+  },
+  {
+    "source": "mipInstances/mip_instance_207.pkl",
+    "path": "instances/mip_instance_207.pkl",
+    "sha256": "7eb9c80ae976cd234bb8bf70aecbc3e598eb024f4be1af328532f5b99b4effc1"
+  },
+  {
+    "source": "mipInstances/mip_instance_208.pkl",
+    "path": "instances/mip_instance_208.pkl",
+    "sha256": "9195caec4a05462975c4148ebe0eb57c0c56980ef38e37b6e7603be88f97b76c"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_94/MNRP-ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_94/MNRP-ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "90ea96c22f71a0815f9106432a58491bf88432e748923e1f5e002ef585608316"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_94/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_94/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "sha256": "401d2e5822d078dcf595faf00a545e5b45fb09a0b927a3b824a7120031f05be1"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_94/ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_94/ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "2a1dad7030159310287fe18ce40e07dcc54e9c330adb788c83f402e6cfa0a0b5"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_94/ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_94/ge-overallvsge-Visual_Network-80.json",
+    "sha256": "143c6e94a9df2063796786efb1a7277b2c592e88da31ddfe8cdfe65d6e2217cf"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_94/ge-overallvsmodularity-overall-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_94/ge-overallvsmodularity-overall-80.json",
+    "sha256": "2a1f74f062e536f1438a33bff2ecfc28e49b5f8a706abc4350d15d4306d07cca"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_95/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_95/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "a0a4773032e20dbe6428749c226923fc86b401ad0811800cd2a95d6ff7a99b6b"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_95/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_95/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "sha256": "2e5923dda02d6e2afd2a23511a171a489f38714afcb23ecc8d90c7e146a5565f"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_95/ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_95/ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "ab3711dd79c8bc5582f1fcab8b7d7e65e560324bc9d8300f2633cca338e08f47"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_95/ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_95/ge-overallvsge-Visual_Network-80.json",
+    "sha256": "8679a77999fa99785337c0258e64784f073815ae5f6b6b1b1214463fbefb81c7"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_95/ge-overallvsmodularity-overall-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_95/ge-overallvsmodularity-overall-80.json",
+    "sha256": "ce1bb0e5d2c878730e47e8abaf3929c343071cd9d17f04a4618e8285be15d681"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_96/MNRP-ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_96/MNRP-ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "fb73eb4746b345556d0fbbabd97de0da7aa21ab6da02518273a0f2e06c1278f8"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_96/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_96/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "sha256": "04338d710232d82b2ccdeb182770b3861eb0cb92a0ed6867d93e847a2e29397d"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_96/ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_96/ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "f8145bc7131381b71df7e6e8382629d2d4a7a186c1227f5f7133cffa12221148"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_96/ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_96/ge-overallvsge-Visual_Network-80.json",
+    "sha256": "e213fa23c225158d28c9f9c8a4e4a9540c386005f3456e760feee22adefe7f4b"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_96/ge-overallvsmodularity-overall-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_96/ge-overallvsmodularity-overall-80.json",
+    "sha256": "865a3df3d2dead492330a7bbe53575e2678b98d572e1871ea3ad836b36ca5329"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_98/MNRP-ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_98/MNRP-ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "da491469381d30a332178826bfb35167784c4f3073a7f4dc3d49911c8474453e"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_98/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_98/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "sha256": "14d70c69d26a1346d0c9307ebbfc8ac652ba7374121ac31e6e9f3413f3652fc5"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_98/ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_98/ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "d16ea9e8968cf7f192a87698d51398225462870dc876ff5a7b63a5fc9cda0178"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_98/ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_98/ge-overallvsge-Visual_Network-80.json",
+    "sha256": "b828aa388c75a637e2738fe9fed5023f299523e81281a10d8dc4bcc353b4ee61"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_98/ge-overallvsmodularity-overall-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_98/ge-overallvsmodularity-overall-80.json",
+    "sha256": "f9d19de6d39c8eaa8eb7ee3c5c258ed2604f6dfc3814c5b89051286937842b37"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_99/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_99/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "8352844dd5b92517bc700041d8af143b2fc7f27680aeceefc4ae1da61666858a"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_99/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_99/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "sha256": "b520ffe31216342ee21eac86c5e3e1829f3d06489c34d4540342e210c0cd04d5"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_99/ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_99/ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "0bf3831af99234413461afc2522149c72021712e1f0b8ce26812bc8d29aa90da"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_99/ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_99/ge-overallvsge-Visual_Network-80.json",
+    "sha256": "f029ddf6bffad8de3fc597f8bb48127bb08c1f40299a09add1486ae27f049ea5"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_99/ge-overallvsmodularity-overall-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_99/ge-overallvsmodularity-overall-80.json",
+    "sha256": "655a72d3593e89c484e1b56f828e5ee1928758019f864742dfdba6ce6272e771"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_100/MNRP-ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_100/MNRP-ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "e77caab40ee737b0abf48c282c45e5ef5eda9ee1d43f66acbfa7a54f0825b972"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_100/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_100/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "sha256": "17c20d401015782de73e9de0d6924a6bf26d8d49d66c46ebd2590cc1406dca65"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_100/ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_100/ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "242ccb6bbce14211edb27f63db583569760132114909f94f106ebd31a09ae21a"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_100/ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_100/ge-overallvsge-Visual_Network-80.json",
+    "sha256": "fe98135aa571fac1627b1a5050be137de1c5dccf6428ddf5bbe8ea14da1971a3"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_100/ge-overallvsmodularity-overall-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_100/ge-overallvsmodularity-overall-80.json",
+    "sha256": "7134311453d05a8d602875a1f8d3621bc14e1d137f5cf2a5d415348f2389ec38"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_102/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_102/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "8d30a85c8b6918f733a02b217f6b96a6fe6f99d9a5cf5d7f3be206971902a02b"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_102/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_102/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "sha256": "6d9635bac094f16b35cdf6e85ba3c7d053c970b23ae46347a0c5a0f50cebb49d"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_102/ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_102/ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "b321efb9e687470b91fd958387c368b394624130dc78dea88b6dfdfb58192a42"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_102/ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_102/ge-overallvsge-Visual_Network-80.json",
+    "sha256": "ddf0ddbcb08e01ca7e1c84f1eca9508241249e80db7c299dc60464c40f7ed6ac"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_102/ge-overallvsmodularity-overall-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_102/ge-overallvsmodularity-overall-80.json",
+    "sha256": "43b76242bff389dafb177d1828d90c3c46b70d9322c200e94e9766be6ed7532e"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_103/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_103/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "24e72a55ea935224ca4419541a31715c517b753817ac34bba955c70b935f8beb"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_103/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_103/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "sha256": "dd3053c7d1933325b70add3a706bcbc95ea0868d16a7272533dc949f7f31bbaf"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_103/ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_103/ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "c681ede043757376bb351b6b19d19e53335f2da7e7504c2e647d43674674a185"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_103/ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_103/ge-overallvsge-Visual_Network-80.json",
+    "sha256": "0f9840bb7c14b1fc7884160700bedeeb4cfcba174997365a5ec23f1174c296b9"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_103/ge-overallvsmodularity-overall-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_103/ge-overallvsmodularity-overall-80.json",
+    "sha256": "ad72f19127ab790fb3d847186b0deb8bd77c8d842614786480f38c6c2742fc9b"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_104/MNRP-ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_104/MNRP-ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "a5eb20ef9454b2ae65a6ce8b8da531488e919dca654da3ccd158dde372017bac"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_104/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_104/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "sha256": "571d76159ddaf6b50adf8c2ae00851702e9837b510c961d5d1369151b36cd6e6"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_104/ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_104/ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "37a65a8e9a6bf267fffcbe49bb792a88b0cfb4ea413fc6a1f39bbce3c9340bf8"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_104/ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_104/ge-overallvsge-Visual_Network-80.json",
+    "sha256": "7c6725661985d80565fbc6e7a06ec0fcf2a80ecab7f62e343704de587fe86c51"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_104/ge-overallvsmodularity-overall-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_104/ge-overallvsmodularity-overall-80.json",
+    "sha256": "64e417bd2fac1bd82babc8fca3a663e41fccc50ac05e2b1bbced95edc70aeb8d"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_107/MNRP-ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_107/MNRP-ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "92feb82fd09deb1446d50b4e40dccdbafdccb6335719306e6059718e14761e54"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_107/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_107/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "sha256": "4387d4fb666e9a477bdd6003842cb188e210dd50dd6aee72ac25d796b659311b"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_107/ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_107/ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "74a67ecab55c81d4509e5489410976bcded7f10384c4ddf45b2c002266368778"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_107/ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_107/ge-overallvsge-Visual_Network-80.json",
+    "sha256": "29017ee01c10198f6ff12d7ce7f2736416fc1ee1c24fb95ab9542313de5d3557"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_107/ge-overallvsmodularity-overall-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_107/ge-overallvsmodularity-overall-80.json",
+    "sha256": "6a8a27bcd911fb1e213d543ec9df4cc58aa1499a46573c266fa0b8a95a20da1b"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_108/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_108/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "f25827dcac0078affecf475e68d1092b4a4d99855cb009957ffd17b8728c3058"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_108/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_108/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "sha256": "9af4b438946a05809a24a464688505d1bbd131a06bd972686afbdff60d75d7b9"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_108/ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_108/ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "6c3b840375a51d380b1c9cea4c34d5ecf197d3b71f038427592cb8d010621325"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_108/ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_108/ge-overallvsge-Visual_Network-80.json",
+    "sha256": "7a82f1730bdd5520366a7e68b18d8b9e58f20b6f90040f7dd9119cd2bb1dfa43"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_108/ge-overallvsmodularity-overall-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_108/ge-overallvsmodularity-overall-80.json",
+    "sha256": "b7c9272a6913eaa388237d24a4f3a976d9ecb413994ca82b8a0180455b4c96d3"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_110/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_110/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "13493d4b46c26bdf3ef3c10bc5198e31f77588bafd1c66d384aba8090d0138a9"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_110/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_110/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "sha256": "3ec7e02f832dd887419ec77281f375ca0a3bed0086620531a44ef2ead38ff519"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_110/ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_110/ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "6277a37f70a86a5fc72e0a142030f6cd0f5bd9c05493ad64aa869d5baeca7e55"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_110/ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_110/ge-overallvsge-Visual_Network-80.json",
+    "sha256": "0cdd5bebaba89510a586b8398d0ee9cb202a72889e2ce2b07ce4df9e22b929e8"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_110/ge-overallvsmodularity-overall-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_110/ge-overallvsmodularity-overall-80.json",
+    "sha256": "a929e1dfde28ce3ecd18550f9d963740a9f77210ba1b187564326442c46d2497"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_111/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_111/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "7943d6ba1520a93df41d0706a9d7968224d0702f20bbbdf890bf4f3b1be8da82"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_111/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_111/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "sha256": "e2b9b1a13e86e9bcf5787c0754b54a8b019c609741c0dec8139d42219f530013"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_111/ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_111/ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "39370df80af83c3d5ec2bbc3f09790e44b7fa05124fce7ff93c87f03e2021580"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_111/ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_111/ge-overallvsge-Visual_Network-80.json",
+    "sha256": "81d9440c5855d1f3b681ba370bd8755946fc12fe789d007d697e173ca62fcc64"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_111/ge-overallvsmodularity-overall-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_111/ge-overallvsmodularity-overall-80.json",
+    "sha256": "c28d693fe2f1e7917963f2b036ada1713d252717e80182dc6c35c0e51149b76c"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_112/MNRP-ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_112/MNRP-ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "686c52c58006538dfc81826ce80a2aa4e19aaff24b9995b2b48039e1f82bed39"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_112/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_112/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "sha256": "6d06aca021fba735c1757c6a6d2051cb29edad3e01480f75a6ede5c074034069"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_112/ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_112/ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "55d1f8287d05f05b58ccc05521728750b8d717f87f8f7d7550affd013ff7200c"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_112/ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_112/ge-overallvsge-Visual_Network-80.json",
+    "sha256": "1bd9996b118d74f9bf86aeaa9511ef05feccc90ba69273cfdd0a45628e9eadf4"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_112/ge-overallvsmodularity-overall-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_112/ge-overallvsmodularity-overall-80.json",
+    "sha256": "6a4b4db12cf953c4baf8437d65e03daf0e779cb0172cf231c602c2b13b86d7e5"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_113/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_113/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "7e141f66a71c5268dcd9aa0338b5caa57b61e423334705f279fcbf8d5f5ed2bd"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_113/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_113/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "sha256": "ee627cf42f2df727faef5534a927150ff206224c9760fe72b45bf0b36ebb1c6f"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_113/ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_113/ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "2e6d860f27ab9899806c48f4d78811237803422e32643f4b3336bae10d034db6"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_113/ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_113/ge-overallvsge-Visual_Network-80.json",
+    "sha256": "8c3c2a0581f62fc0006cd054b92281d4fb77b639760b712b03d41e93611076d6"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_113/ge-overallvsmodularity-overall-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_113/ge-overallvsmodularity-overall-80.json",
+    "sha256": "4058d4d0a67c694529f4f5c4a61db788de0d4eba7c13abbf5941efe3f8d02422"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_114/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_114/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "8f16c3d31a42075f80cc65245a11af3cdb4b27eef73cecc601e9aee11cc71fa9"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_114/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_114/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "sha256": "63a61a510d425f2684b9bd6146d6a802a39f4e364196bf6215970956666a1bb2"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_114/ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_114/ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "3b2f6f26aa0b4455470c4e87734c7d51f3636004d212deb89b0c34e4774ac060"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_114/ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_114/ge-overallvsge-Visual_Network-80.json",
+    "sha256": "899b9158df950d00d6b7e1fb4cc743510f2d7a0d390d67ecf936798f39d2c9ca"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_114/ge-overallvsmodularity-overall-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_114/ge-overallvsmodularity-overall-80.json",
+    "sha256": "17c9900ca61b89bdd164ead1003815e3c1c21fea450d99a7420a9a919604f280"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_115/MNRP-ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_115/MNRP-ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "3aa815b1ba708d1adb8ea2ab3ab586a7f0a95a7d4805a80445d2ec9899ca8ba9"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_115/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_115/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "sha256": "cc5bfee690a2cdd5bf7dd4619af4815532c7eab8a82b279221a51fe0a17d4284"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_115/ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_115/ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "640f535f8b9eb8940e419cead5fe7facd63e66babbcca374277d5caeae1b1a95"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_115/ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_115/ge-overallvsge-Visual_Network-80.json",
+    "sha256": "f68a28485060eaea424d8f30873da6c5540db1ee1db2276b97de0a570658b1b8"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_115/ge-overallvsmodularity-overall-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_115/ge-overallvsmodularity-overall-80.json",
+    "sha256": "4be660964e456304da9d501706bd5afd263f3b3b5854ae843c2546e7b2fd2196"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_116/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_116/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "a0ab46fb3263c319384037815bb84d56dffcdde04c84a441e3a522417f3b03ee"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_116/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_116/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "sha256": "3e40ce01950a01522f4fd40d8dcd33681160145d648dbd03c130cf2ee38d9a0f"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_116/ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_116/ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "0a2e2b9d07720596411ab3600e5581395240a62b9822525faedc9d4127592e46"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_116/ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_116/ge-overallvsge-Visual_Network-80.json",
+    "sha256": "1f503c41a771857dd97f0433edf1affb01d47873e8dcec37db008fc87db0bb3d"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_116/ge-overallvsmodularity-overall-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_116/ge-overallvsmodularity-overall-80.json",
+    "sha256": "7cba7a070cb2d5b3de873068d2c7b9912806396c0fb52a59593f77f7b2eaa41c"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_117/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_117/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "f1c6998f91236b83f25c52ecb9834c8db9e18a7f8f3dc26765cfe48c02c015a2"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_117/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_117/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "sha256": "cab3460aca6709762789e741a328be5715dfd5b9b5c7b73330c7416911237059"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_117/ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_117/ge-overallvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "a7a8488377396c02e3b9cb991cc08693b66d48365662df99e54e76c2de087f3b"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_117/ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_117/ge-overallvsge-Visual_Network-80.json",
+    "sha256": "c1adf6c0639d3260917adbb04a9ee183d1f7ee46532e9bb36b09d9ec97ee171e"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_117/ge-overallvsmodularity-overall-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_117/ge-overallvsmodularity-overall-80.json",
+    "sha256": "a79fbfc3b346e3ec62b5674ed46e11a88a1266fe26019f869cb409d762022657"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_118/MNRP-ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_118/MNRP-ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "b45a91cdfceae16a2679a7b037b9fefe9152313d584bbde95fd74cc88fc20a2c"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_118/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_118/MNRP-ge-overallvsge-Visual_Network-80.json",
+    "sha256": "36496734da83dae6df61aad4515d3ca94bca4671bd424511604b483b737e2f16"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_118/ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_118/ge-Visual_Networkvsge-Multiple_Demand_Extended_Network-80.json",
+    "sha256": "0262c3586858c17f9e453033de64488f2486b127d4f29275600f6f2c1b69e00c"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_118/ge-overallvsge-Visual_Network-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_118/ge-overallvsge-Visual_Network-80.json",
+    "sha256": "63b38157b75dbf3b91f02163a55182e853eabcc1abe307186b4968b0148a9dd7"
+  },
+  {
+    "source": "EpsilonResultsFixed/instance_118/ge-overallvsmodularity-overall-80.json",
+    "path": "reference/EpsilonResultsFixed/instance_118/ge-overallvsmodularity-overall-80.json",
+    "sha256": "54e509cbc656f8df2ce79108c571b57cc7e76da2f5058f1b470553b2ed8d658c"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-1.33930716025315.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-1.33930716025315.json",
+    "sha256": "6562cbc07f6347cc1de634508cd7cc40081f0776934dd5ac80da34bf4e7ee7aa"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-32.07292482240338.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-32.07292482240338.json",
+    "sha256": "ee133ccb8bf098ce36665fa28aa203cd459472f94d4d547420b6256e4467b784"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-37.52090216641258.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-37.52090216641258.json",
+    "sha256": "27f036174f271f93c4e0f73cdc4f34fb971297950f463257b74a24baa8faf5da"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-43.93740881602343.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-43.93740881602343.json",
+    "sha256": "fd02baa2c77d62ba1fc96600dfce0ee9e1e0e7a4e7f664a558d1e1fb2511ef23"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-61.90890061052391.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-61.90890061052391.json",
+    "sha256": "75972bb092097a1dcb8fa068ceadac1dd7f9be9cddfe83b519a07818c73950a3"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-69.69441243166938.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-69.69441243166938.json",
+    "sha256": "fd79a8deae9b77bf9ab29a4fcb17ed243079b3000146d814c2f895b04d947fe1"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-78.89800099227324.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-78.89800099227324.json",
+    "sha256": "0565c2cecaed0d88556efdb7d3f3b7a23873d5ef5228e340aa98bb9d9c259c85"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-93.5400713535716.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-93.5400713535716.json",
+    "sha256": "b3607447e737d87ddcd76915ef6fe5ad6d62684c1ac1152ab908fa6d85ecb302"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-96.51147325777704.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-96.51147325777704.json",
+    "sha256": "4215be5512e6abd401c5123489da7281bbe799d647e65838c99915054c6dcfd2"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Visual_Network-32.07292482240338.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Visual_Network-32.07292482240338.json",
+    "sha256": "b2843cde9a5e94c409e92108837f7ce33f22f11d032e1f0c245c0046ccf5d036"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Visual_Network-37.52090216641258.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Visual_Network-37.52090216641258.json",
+    "sha256": "11063f1430fa49e8cf1cd693a86178af774f8a5fc09ec9f969e6148acde43e1e"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Visual_Network-43.93740881602343.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Visual_Network-43.93740881602343.json",
+    "sha256": "0a2f93933eb6b25ad17f6d4c984eb326910a68666b297b4458b3740555503b29"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Visual_Network-61.90890061052391.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Visual_Network-61.90890061052391.json",
+    "sha256": "12cdacd4f5744b9baa8c735511a4cbe40a4a9e7fc63e168be79a77bf346bfff1"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Visual_Network-69.69441243166938.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Visual_Network-69.69441243166938.json",
+    "sha256": "d533193f24e8a9fd445c78f2c90470b5cf764c7fc4c96bf621bde74a10f9c05f"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Visual_Network-78.89800099227324.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Visual_Network-78.89800099227324.json",
+    "sha256": "8268fffe925b8d46fbffa69377afdde426334ee8c108120d38aa4fe80f204721"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Visual_Network-93.5400713535716.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Visual_Network-93.5400713535716.json",
+    "sha256": "c3eb8d9115f16693599cf2a86479001dbb4eb9f47fd349085a6a0934c8f1e4de"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Visual_Network-96.51147325777704.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/MNRP-ge-overallvsge-Visual_Network-96.51147325777704.json",
+    "sha256": "b6a04b49af6f8505dd5934257aacee590b4eb950f785747a0d1881c2ddf276e8"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsge-Multiple_Demand_Extended_Network-1.33930716025315.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsge-Multiple_Demand_Extended_Network-1.33930716025315.json",
+    "sha256": "198967f4f7c1f663252b4174e27687abba73321679725879b38f3c9717bda630"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsge-Multiple_Demand_Extended_Network-32.07292482240338.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsge-Multiple_Demand_Extended_Network-32.07292482240338.json",
+    "sha256": "c48372340abe92c4ac02a4f2224e5fb8e213fe03e33803925cc4794dfccb72cc"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsge-Multiple_Demand_Extended_Network-37.52090216641258.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsge-Multiple_Demand_Extended_Network-37.52090216641258.json",
+    "sha256": "ca41b25ec0170b4fdc8bf20055cdd4c5a622e6faef411eee4729cac92ab5c1d9"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsge-Multiple_Demand_Extended_Network-43.93740881602343.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsge-Multiple_Demand_Extended_Network-43.93740881602343.json",
+    "sha256": "34c25e59e3330dc7e668f74b352748cdbd28711bbdb6623b55b1a0b330a1fa89"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsge-Multiple_Demand_Extended_Network-61.90890061052391.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsge-Multiple_Demand_Extended_Network-61.90890061052391.json",
+    "sha256": "54da73095c8313fb343c6a02f1940f17e4b6b632e5e66bd3e69f25dcfd8ac40d"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsge-Multiple_Demand_Extended_Network-69.69441243166938.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsge-Multiple_Demand_Extended_Network-69.69441243166938.json",
+    "sha256": "a44317195f4bf5ac86defa9bb1ca4173d49299cfde4a074753467e7c9643bf99"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsge-Multiple_Demand_Extended_Network-78.89800099227324.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsge-Multiple_Demand_Extended_Network-78.89800099227324.json",
+    "sha256": "c06ce9bffb03164ff0e9911c228d528a0541ac4dcd297c46a9eee02a3b9d7e5f"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsge-Multiple_Demand_Extended_Network-93.5400713535716.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsge-Multiple_Demand_Extended_Network-93.5400713535716.json",
+    "sha256": "42b2323f3803af5d2cd70f2f79c7f4ce5f484d045a351b9e416f17bd0ac32ac5"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsge-Multiple_Demand_Extended_Network-96.51147325777704.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsge-Multiple_Demand_Extended_Network-96.51147325777704.json",
+    "sha256": "85e4fa09a24166075ec2eadbb051145230fb17619eb29ecde2ec6dedbb57bbf5"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsge-Visual_Network-32.07292482240338.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsge-Visual_Network-32.07292482240338.json",
+    "sha256": "4091d20b88ef6f5c9ec1a712351ddf0056ee0eb704ee668cd349571fd78c8edc"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsge-Visual_Network-37.52090216641258.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsge-Visual_Network-37.52090216641258.json",
+    "sha256": "f56ea5f6a2cf625ac7e8e278554b530478c7cc92de890df94b941a2a01ec0bb0"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsge-Visual_Network-43.93740881602343.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsge-Visual_Network-43.93740881602343.json",
+    "sha256": "9853e2dc90f380d936a53c8d6f35b92e3ffd5e49501142ae5fffe8b7b8e28fdb"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsge-Visual_Network-61.90890061052391.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsge-Visual_Network-61.90890061052391.json",
+    "sha256": "45f811ca81f8378a58f17bd658db87b90502b3f94806288598853d30c239e1bd"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsge-Visual_Network-69.69441243166938.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsge-Visual_Network-69.69441243166938.json",
+    "sha256": "b0650a39e4f6d83b16934b262bf104cf2f30f26de0abdeef01412885b112023a"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsge-Visual_Network-78.89800099227324.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsge-Visual_Network-78.89800099227324.json",
+    "sha256": "6aa2d17e8014a92633a106773e6e3927cc35337db6dcfd6802785dbfeaf3f663"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsge-Visual_Network-93.5400713535716.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsge-Visual_Network-93.5400713535716.json",
+    "sha256": "31480e7c9b619b542eec017c83d1eb1cbc1359c5bbc0ffdaefae77ede646bda8"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsge-Visual_Network-96.51147325777704.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsge-Visual_Network-96.51147325777704.json",
+    "sha256": "3939c3ba21818a94aab23f129073aeef93cfa02d7fc3e6ce1a7bdc33287233c2"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsmodularity-overall-32.07292482240338.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsmodularity-overall-32.07292482240338.json",
+    "sha256": "6b8764153cf381b7b0eadfd7f1d16ba0315f6d272e93a48a9933920f9ad4298f"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsmodularity-overall-37.52090216641258.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsmodularity-overall-37.52090216641258.json",
+    "sha256": "f643d280731045642a6c17946d8e5bea48a32c4949a0042de1f4da4752f28ac7"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsmodularity-overall-43.93740881602343.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsmodularity-overall-43.93740881602343.json",
+    "sha256": "da929d3af370f46a5e3c6bc30a72bbfa00397206e524f188ca7a1f1d360da548"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsmodularity-overall-61.90890061052391.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsmodularity-overall-61.90890061052391.json",
+    "sha256": "60c360255bb70259052aa5136301c351ca9fe2fa6d64c7fd8746a7df3dd2da86"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsmodularity-overall-69.69441243166938.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsmodularity-overall-69.69441243166938.json",
+    "sha256": "fb7575b94c3bf145445f253cbac7d5cc7dac67526967c648cc845300cbcbeb6b"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsmodularity-overall-78.89800099227324.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsmodularity-overall-78.89800099227324.json",
+    "sha256": "650882c42b30b48086f40e477be0948e3c470a352ecdb37595e1ec57f6699a61"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsmodularity-overall-93.5400713535716.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsmodularity-overall-93.5400713535716.json",
+    "sha256": "63cc9a71b5b8d36d3ab4b58ca8882ece438d32bc844013015a86a823b80cd2cb"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/ge-overallvsmodularity-overall-96.51147325777704.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/ge-overallvsmodularity-overall-96.51147325777704.json",
+    "sha256": "4aa9d7fd657fcbd5aa6ea262d73e8bd54490c619153a9345184e4589ab012b65"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_168/surgeryResults.json",
+    "path": "reference/SurgeryEpsilonResults/instance_168/surgeryResults.json",
+    "sha256": "fb1adf2ad371e5cb6344225b26b96c8beeaa2777a675d53cd6b1f4c3fbfd6594"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-1.33930716025315.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-1.33930716025315.json",
+    "sha256": "935e3531c917e7d6aec961e917a9af91c8e104739ed67a61cb8ac6679a2fcdda"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-32.07292482240338.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-32.07292482240338.json",
+    "sha256": "d238f0691fef1bca465391368f002303e9b67d9d7a160790a924cdafdbb96914"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-37.52090216641258.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-37.52090216641258.json",
+    "sha256": "092d94acf4386c5153ee7dd4def4a993bb513f52cee89a67f7f55726b9992e03"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-43.93740881602343.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-43.93740881602343.json",
+    "sha256": "cb4bdbbffe1c0dfb8e7d9eafaabcfa52351910b0ab0d627428f94c60c6677228"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-61.90890061052391.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-61.90890061052391.json",
+    "sha256": "4ca21994b54896a54b5b7e7f9c275f05756c8aaf15c01c9183ff1b7cdedd802c"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-69.69441243166938.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-69.69441243166938.json",
+    "sha256": "eb94c8b320b8b2aeb0f6d1aa88e4903dd1cc7104f7fd3484a75ffa1f348226a4"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-78.89800099227324.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-78.89800099227324.json",
+    "sha256": "62ee1a27b68717d00efed40f9ac6cfe01557f82d1f355ba669f6651c4796826d"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-93.5400713535716.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-93.5400713535716.json",
+    "sha256": "7c1d516609990d58463880b785f7d9678985245ee7d709e62d5ad49d09c04c18"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-96.51147325777704.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Multiple_Demand_Extended_Network-96.51147325777704.json",
+    "sha256": "8a9184407a33903e9c7f401fd204d4fbd6f63f3595b79b650cdc336f18f2bee6"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Visual_Network-32.07292482240338.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Visual_Network-32.07292482240338.json",
+    "sha256": "44581dfed5671a51a23a2d18698aa57dcaebf641afdbfd28b5eeec5d4bc8f876"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Visual_Network-37.52090216641258.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Visual_Network-37.52090216641258.json",
+    "sha256": "0613e48344bfca75c30c6b05889c0c566b52ed48cd6a32a78c4e6962a0964f14"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Visual_Network-43.93740881602343.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Visual_Network-43.93740881602343.json",
+    "sha256": "66f100f9aca7a8e6ddc8484905d7c838a8926ca483d09dfe973536c0ee6703a2"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Visual_Network-61.90890061052391.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Visual_Network-61.90890061052391.json",
+    "sha256": "167260663380378a3740f6d7e95351b225053105b123860a77083aa3f056061e"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Visual_Network-69.69441243166938.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Visual_Network-69.69441243166938.json",
+    "sha256": "4f2f55f16799c4540d12e834cee23942e7945861fb7b44c62d8ee24ddd403050"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Visual_Network-78.89800099227324.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Visual_Network-78.89800099227324.json",
+    "sha256": "5f05aab2cb2ecb5f9e3e84c371c14502d26f45693b3dd4b814e3a52c14f4de63"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Visual_Network-93.5400713535716.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Visual_Network-93.5400713535716.json",
+    "sha256": "d924975761e4ea9e5c284df82abec3723d60d107e872bb3802749ac536900d27"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Visual_Network-96.51147325777704.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/MNRP-ge-overallvsge-Visual_Network-96.51147325777704.json",
+    "sha256": "a8057ad36c8429236492ffa940af9e63d1e3a1407e7808ee21b01349b4a208e3"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsge-Multiple_Demand_Extended_Network-1.33930716025315.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsge-Multiple_Demand_Extended_Network-1.33930716025315.json",
+    "sha256": "67fd96083e4899fd6d89674eeb3103560fb2a74ac5dc680d91d2f8f495aac5e5"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsge-Multiple_Demand_Extended_Network-32.07292482240338.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsge-Multiple_Demand_Extended_Network-32.07292482240338.json",
+    "sha256": "22fa66d87214572f6d711f5d12d759be80c30cc0b2d65ee31eb6b4019fdc574a"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsge-Multiple_Demand_Extended_Network-37.52090216641258.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsge-Multiple_Demand_Extended_Network-37.52090216641258.json",
+    "sha256": "dc6be8588b03b05c63f33329dd9c9cd2c48fe20ca7e14b3e04df3255afa723f4"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsge-Multiple_Demand_Extended_Network-43.93740881602343.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsge-Multiple_Demand_Extended_Network-43.93740881602343.json",
+    "sha256": "a17a8f85c42138f879c655d4723f63bed5a86ca3039a4c0b74eb681a954cbd57"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsge-Multiple_Demand_Extended_Network-61.90890061052391.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsge-Multiple_Demand_Extended_Network-61.90890061052391.json",
+    "sha256": "10c55a8c05307d8541f34726ca2adf7777b1d5c0fc4bde7a7e8709b36430e3f5"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsge-Multiple_Demand_Extended_Network-69.69441243166938.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsge-Multiple_Demand_Extended_Network-69.69441243166938.json",
+    "sha256": "1fdc4ab8dbdae02b36bd6e28792c17086c64b0af63d3c894341523e945457ec0"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsge-Multiple_Demand_Extended_Network-78.89800099227324.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsge-Multiple_Demand_Extended_Network-78.89800099227324.json",
+    "sha256": "721727de415d06bae180be68e54dceb070d42e2d83b3a9628fd4ccdf20633778"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsge-Multiple_Demand_Extended_Network-93.5400713535716.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsge-Multiple_Demand_Extended_Network-93.5400713535716.json",
+    "sha256": "82ad43a6f5d71b0db72b779261ddddd48e6d8731258319716b73246766f62198"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsge-Multiple_Demand_Extended_Network-96.51147325777704.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsge-Multiple_Demand_Extended_Network-96.51147325777704.json",
+    "sha256": "30818e4d74f515d6a08f2ab964db85ab165c8112c517efa96d10a71b964090bc"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsge-Visual_Network-32.07292482240338.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsge-Visual_Network-32.07292482240338.json",
+    "sha256": "f59d2af78baa7e77e1ee43df351a1db4ef551cf74c461e22fbbd27cf092924e3"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsge-Visual_Network-37.52090216641258.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsge-Visual_Network-37.52090216641258.json",
+    "sha256": "f307b17f3386a72513d3daa5da5774f3b81ddaa055a46b0800374bb7eb048a8d"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsge-Visual_Network-43.93740881602343.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsge-Visual_Network-43.93740881602343.json",
+    "sha256": "dc65a1b862d5eba258b5652293edabd44b429f80e48c925f3984d278b5568fbf"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsge-Visual_Network-61.90890061052391.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsge-Visual_Network-61.90890061052391.json",
+    "sha256": "a8df22b8393ed548f350aa4ec9920dd0c81cc02aeb33bf1750fc287a993a8192"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsge-Visual_Network-69.69441243166938.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsge-Visual_Network-69.69441243166938.json",
+    "sha256": "c9e220327a4478ffe8c79529621f328b73362a4fa19fc1e6f787ab05830b8691"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsge-Visual_Network-78.89800099227324.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsge-Visual_Network-78.89800099227324.json",
+    "sha256": "70139c95803c076a331f22953f755932f5cebb20722cbfcd71b58db5f59fd4d0"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsge-Visual_Network-93.5400713535716.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsge-Visual_Network-93.5400713535716.json",
+    "sha256": "8aedf12959878e5b9a58e5033d199745a1c447bb86fe202f833d9e195502d0e8"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsge-Visual_Network-96.51147325777704.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsge-Visual_Network-96.51147325777704.json",
+    "sha256": "7c6ccc7279db62aba84c07cc596c366fa27b4181900c215f66680463d49d2fdf"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsmodularity-overall-32.07292482240338.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsmodularity-overall-32.07292482240338.json",
+    "sha256": "0d1a37b92ec7cd34ced09e57e35433851466e4822e5c07195510a3566cc91a8e"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsmodularity-overall-37.52090216641258.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsmodularity-overall-37.52090216641258.json",
+    "sha256": "7dadcc1273c638b238a5b8f9a99ec0581632b024682e253841c603e3d734363d"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsmodularity-overall-43.93740881602343.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsmodularity-overall-43.93740881602343.json",
+    "sha256": "911df11d8ef805e6a63050d3c0deb9a233fb2677e7979bc7071e5d25274e997f"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsmodularity-overall-61.90890061052391.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsmodularity-overall-61.90890061052391.json",
+    "sha256": "7ccf1e10992a856c5b07082f88ce183b8f884b7487b1b42db605ecf9e051bdfd"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsmodularity-overall-69.69441243166938.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsmodularity-overall-69.69441243166938.json",
+    "sha256": "bb8cbc54da44aa8dd2ec60323712b2bdbdc51608fc7e5627b035de6de5e19332"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsmodularity-overall-78.89800099227324.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsmodularity-overall-78.89800099227324.json",
+    "sha256": "b6ecdb7bbd97719bd41b5b4178a0748c678aafa03f5edbed5aeb3559c6817422"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsmodularity-overall-93.5400713535716.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsmodularity-overall-93.5400713535716.json",
+    "sha256": "bbab65687494d70d3742dbd3d48218c10e1558fc6d5d2a54ee7e8bac1ef1c03e"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/ge-overallvsmodularity-overall-96.51147325777704.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/ge-overallvsmodularity-overall-96.51147325777704.json",
+    "sha256": "e73338b65bea0257494130fda04b53e897811ad0648b157212907dd17e5e52f3"
+  },
+  {
+    "source": "SurgeryEpsilonResults/instance_170/surgeryResults.json",
+    "path": "reference/SurgeryEpsilonResults/instance_170/surgeryResults.json",
+    "sha256": "05b5e6a4987fb6f6ec08613e95e92907b6f9b5552a01c42fece29c98a7616e58"
+  },
+  {
+    "source": "surrogate_vs_original.json",
+    "path": "reference/surrogate_vs_original.json",
+    "sha256": "e3039fb82100e1ac5b57b9adc27326ebc591545a34e6f1fccc3a4a7299f81cc0"
+  },
+  {
+    "source": "subnetwork_parcels.json",
+    "path": "config/subnetwork_parcels.json",
+    "sha256": "8f29407e9cf2ec0dc4fcdfc7b3c1304b077ea1b5689a6d4f0d1357ffa223fbbc"
+  },
+  {
+    "source": "one drive/constant_adjacency_experiment.xlsx",
+    "path": "reference/workbooks/constant_adjacency_experiment.xlsx",
+    "sha256": "e3446304d54c7989753d504b370aa030394ba7284c61555a6770dd5a573dc266"
+  },
+  {
+    "source": "one drive/Bi-Obj Results Jun10.xlsx",
+    "path": "reference/workbooks/Bi-Obj Results Jun10.xlsx",
+    "sha256": "be8a86c4986d9c382c109619a527af63d62a268e76eea20237987e6128557eff"
+  },
+  {
+    "source": "one drive/surrogate_vs_original_lates.xlsx",
+    "path": "reference/workbooks/surrogate_vs_original_lates.xlsx",
+    "sha256": "d24da5d4c3cf746a81e790fa88e60b9f6fcbbabd6843a85b6becfe1b1a6c9d46"
+  },
+  {
+    "source": "one drive/instanceInfo.xlsx",
+    "path": "reference/workbooks/instanceInfo.xlsx",
+    "sha256": "5fe7b3921f636151519c5bef3ebcacdce1951b4fbe4eaf41d07d864a1262484e"
+  },
+  {
+    "source": "modularity_overallGNN_25.05.25 20:41_overallTrained.pth",
+    "path": "weights/modularity_overallGNN_25.05.25 20:41_overallTrained.pth",
+    "sha256": "ca164d827739349696c9746e359bbd858e24d360962d92c9074f5507f7b6f817"
+  },
+  {
+    "source": "ge_Multiple_Demand_Extended_NetworkGNN_05.05.25 22:04.pth",
+    "path": "weights/ge_Multiple_Demand_Extended_NetworkGNN_05.05.25 22:04.pth",
+    "sha256": "3ca40567398c4267af787878b9ffaf98717ee034ba0383c35ce3c4a0d7974921"
+  },
+  {
+    "source": "modularity_overallGNN_05.05.25 20:35.pth",
+    "path": "weights/modularity_overallGNN_05.05.25 20:35.pth",
+    "sha256": "ffb9f712e14914baaf9eacc06c93b17ae9cb6a641f95091a2126ee3d66466365"
+  },
+  {
+    "source": "ge_overallGNN_25.05.25 00:36_overallTrained.pth",
+    "path": "weights/ge_overallGNN_25.05.25 00:36_overallTrained.pth",
+    "sha256": "ea3187dc87e5aea9163919b0c898d41132431941123e7ea98ef9a2398f1506a4"
+  },
+  {
+    "source": "ge_Multiple_Demand_Extended_NetworkGNN_25.05.25 17:13_Multiple_Demand_Extended_NetworkTrained.pth",
+    "path": "weights/ge_Multiple_Demand_Extended_NetworkGNN_25.05.25 17:13_Multiple_Demand_Extended_NetworkTrained.pth",
+    "sha256": "cf58f7fde9f12f7a77ae04c907457e64ce72c6217fa81c1249cd885f2c195343"
+  },
+  {
+    "source": "ge_Visual_NetworkGNN_24.05.25 21:35_Visual_NetworkTrained.pth",
+    "path": "weights/ge_Visual_NetworkGNN_24.05.25 21:35_Visual_NetworkTrained.pth",
+    "sha256": "c1ab9178a5c73e429888dfdf17cd538141666c8a0b6f9dda6b489ba13e337431"
+  }
+]

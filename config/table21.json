@@ -1,0 +1,42 @@
+{
+  "source_code": "TumorSegmentationLatest.py:207-545",
+  "resect_pct": 69.69441243166938,
+  "results": [
+    {
+      "method": "surrogate",
+      "objective": "overall",
+      "resect_pct": 69.69441243166938,
+      "evaluate_168_plan_168": 0.5902197462086042,
+      "evaluate_170_plan_168": 0.5544091096667698,
+      "evaluate_168_plan_170": 0.5902610131022388,
+      "evaluate_170_plan_170": 0.554939131331889
+    },
+    {
+      "method": "surrogate",
+      "objective": "Multiple_Demand_Extended_Network",
+      "resect_pct": 69.69441243166938,
+      "evaluate_168_plan_168": 0.6275546159267089,
+      "evaluate_170_plan_168": 0.5562015503875969,
+      "evaluate_168_plan_170": 0.6272022551092318,
+      "evaluate_170_plan_170": 0.558491895701198
+    },
+    {
+      "method": "exact",
+      "objective": "overall",
+      "resect_pct": 69.69441243166938,
+      "evaluate_168_plan_168": 0.5902610131022388,
+      "evaluate_170_plan_168": 0.554939131331889,
+      "evaluate_168_plan_170": 0.5902610131022388,
+      "evaluate_170_plan_170": 0.554939131331889
+    },
+    {
+      "method": "exact",
+      "objective": "Multiple_Demand_Extended_Network",
+      "resect_pct": 69.69441243166938,
+      "evaluate_168_plan_168": 0.627906976744186,
+      "evaluate_170_plan_168": 0.5586680761099366,
+      "evaluate_168_plan_170": 0.6277307963354474,
+      "evaluate_170_plan_170": 0.5586680761099366
+    }
+  ]
+}

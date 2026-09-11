@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+outputs/.matplotlib/
+outputs/reruns/
+grbnodes*/
+READMEauthors.md
